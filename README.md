@@ -9,7 +9,7 @@
 <!--## 🎬Landing Page - Hypertube📽 ##-->
 <p align="center">
   <a href="">
-  🎬Microsoft Certified Project | Code Base - HyperTube📽 
+  🎬Recommendation System using neural network📽 
   </a>
 </p>
 
